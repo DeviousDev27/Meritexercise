@@ -1,0 +1,10 @@
+// Create a File object using the path
+File bookFile = new File(filePath);
+// Open the file
+try (Scanner fileInput = new Scanner(bookFile)) {
+    // Loop until the end of file is reached
+
+} catch (FileNotFoundException e) {
+    // Could not find the file at the specified path.
+    System.out.println("The file was not found: " + bookFile.getAbsolutePath());
+}

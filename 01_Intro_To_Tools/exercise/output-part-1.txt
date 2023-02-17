@@ -1,0 +1,33 @@
+
+---- VERIFYING PART 1 ---- 
+
+✅ 1. /Users/josh/playground exists
+✅ 2. /Users/josh/playground/usa exists
+✅ 3. /Users/josh/playground/canada exists
+✅ 4. /Users/josh/playground/usa/ohio exists
+✅ 5. /Users/josh/playground/usa/pennsylvania exists
+✅ 6. /Users/josh/playground/usa/michigan exists
+✅ 7. /Users/josh/playground/canada/quebec exists
+✅ 8. /Users/josh/playground/canada/british-columbia exists
+✅ 9. /Users/josh/playground/usa/ohio/cuyahoga exists
+✅ 10. /Users/josh/playground/usa/ohio/hamilton exists
+✅ 11. /Users/josh/playground/usa/ohio/franklin exists
+✅ 12. /Users/josh/playground/usa/pennsylvania/allegheny exists
+✅ 13. /Users/josh/playground/usa/michigan/wayne exists
+✅ 14. /Users/josh/playground/usa/ohio/cuyahoga/cleveland.txt exists
+✅ 15. /Users/josh/playground/usa/ohio/hamilton/cincinnati.txt exists
+✅ 16. /Users/josh/playground/usa/ohio/franklin/columbus.txt exists
+✅ 17. /Users/josh/playground/usa/pennsylvania/allegheny/pittsburgh.txt exists
+✅ 18. /Users/josh/playground/usa/michigan/wayne/detroit.txt exists
+✅ 19. /Users/josh/playground/canada/quebec/montreal.txt exists
+✅ 20. /Users/josh/playground/canada/quebec/quebec-city.txt exists
+✅ 21. /Users/josh/playground/canada/british-columbia/vancouver.txt exists
+✅ 22. /Users/josh/playground/canada/british-columbia/prince-george.txt exists
+
+Total tests: 22
+Tests passed: 22
+Errors: 0
+
+Congratulations! All tests in Part 1 are passing.
+Continue on to Part 2 in the README.
+
